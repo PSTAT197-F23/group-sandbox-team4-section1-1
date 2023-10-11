@@ -5,12 +5,10 @@ template repo for class activity on git and github in pstat197a
 
 updated october 2023
 
-<<<<<<< HEAD
+
 group:
 
 kayla
 jade
 manuri
-=======
 
->>>>>>> 08c44c7f9841f124a70933bc13b49afb926710ff
